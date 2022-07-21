@@ -2,6 +2,6 @@
 Efficiently store, manipulate, and retrieve data
 
 First create a new database with name HR
-Run HR-Database-Create-Table Script to create Tables
-Populate created tables by importing csv files of each of tables
-Run String-Patterns-Sorting-and-Grouping-script to perform basic sorting and grouping statements
+*HR_Database_Create_Tables_Script: Run script to create tables
+*csv files: Populate created tables by importing csv files of each of tables
+*StringPatterns-Sorting-Grouping-Script: run script to perform basic sorting and grouping statements
