@@ -9,3 +9,4 @@ First create a new database with name HR
 * StringPatterns-Sorting-Grouping-Script.sql: run script to perform basic sorting and grouping statements
 * SubQueries_Script.sql: run script to write SQL queries that demonstrate the necessity of using sub-queries
 * MultipleTables_Script.sql: run script to write SQL queries that access more than one table
+* JOIN_Script.sql: run script to write SQL queries with different kinds of join operations
